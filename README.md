@@ -1,10 +1,13 @@
 # Food Delivery
 
 Food delivery is an e-commerce project that deals with food delivery
-
+<br/>
 GitHub (client): https://github.com/Apu-Emdad/food-delivery-client-
+<br/>
 GitHub (server): https://github.com/Apu-Emdad/food-delivery-server
+<br/>
 Live Site: https://food-delivery-1c9a3.web.app/
+<br/>
 
 ## Features
 
