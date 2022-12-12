@@ -8,6 +8,9 @@ GitHub (server): https://github.com/Apu-Emdad/food-delivery-server
 <br/>
 Live Site: https://food-delivery-1c9a3.web.app/
 <br/>
+admin: admin@admin.com   password: 123456
+<br/>
+
 
 ## Features
 
