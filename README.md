@@ -6,11 +6,10 @@ GitHub (client): https://github.com/Apu-Emdad/food-delivery-client-
 <br/>
 GitHub (server): https://github.com/Apu-Emdad/food-delivery-server
 <br/>
-Live Site: https://food-delivery-1c9a3.web.app/
+Live Site: https://food-delivery-dusky.vercel.app/
 <br/>
-admin: admin@admin.com   password: 123456
+admin: admin@admin.com password: 123456
 <br/>
-
 
 ## Features
 
