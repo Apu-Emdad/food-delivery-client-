@@ -66,7 +66,7 @@ const useFirebase = () => {
   }, []);
 
   useEffect(() => {
-    fetch(`https://food-dalivary.herokuapp.com/users-cehck/${user.email}`)
+    fetch(`https://server-food-delivery.vercel.app/users-cehck/${user.email}`)
       .then((res) => res.json())
       .then((data) => setAdmin(data.admin));
   }, [user.email]);
@@ -84,7 +84,7 @@ const useFirebase = () => {
   };
   const saveUser = (email, displauName, method) => {
     const user = { email, displauName };
-    fetch("https://food-dalivary.herokuapp.com/users", {
+    fetch("https://server-food-delivery.vercel.app/users", {
       method: method, // or 'PUT'
       headers: {
         "Content-Type": "application/json",
